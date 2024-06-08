@@ -1,0 +1,14 @@
+
+Gurchran Singh<br>
+student number:9012325
+body {
+    font: 16px Arial, sans-serif; 
+    background-color: hsla(210, 50%, 80%, 0.8); 
+    height: 100vh;
+    width: 100vw; 
+}
+
+h2 {
+    color: Pink; /* 3-digit hex color */
+    font-size: 1.2em; 
+}
